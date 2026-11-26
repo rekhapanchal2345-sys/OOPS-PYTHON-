@@ -1,6 +1,6 @@
-lst = [1,2,3]
-my_str = "Nikil Panchal"
-my_int = 123
+# lst = [1,2,3]
+# my_str = "Nikil Panchal"
+# my_int = 123
 
 # print(type(lst))
 
@@ -10,6 +10,10 @@ my_int = 123
 # print(my_str)
 
 
-a = 'x'
-b = 'y'
-print(a+b)
+# a = 'x'
+# b = 'y'
+# print(a+b)
+
+from oops_proj import chatbook
+
+user1 = chatbook()
