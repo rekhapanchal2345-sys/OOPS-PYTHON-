@@ -1,0 +1,10 @@
+1 .class and OBJ
+2. class hasb data/atrribute and fun/methods
+    > code walkthrought
+    > atrribute get called itself . methods are called manually
+3. why python is  called oop?   --> everything is python is an object (data structure, data type..etc)
+4. Advantage of oops:
+   >you can create your own datatype
+   >code reusality
+   >debugging
+   >easy to colab
